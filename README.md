@@ -196,8 +196,6 @@ Microsoft Corp,USA,450000
 - ✅ **$300K/year cost savings**
 - ✅ **60-day implementation**
 
-**[Read full case study →](docs/case-study.md)**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -285,21 +283,13 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rishanth Gautham Kalicheti**
-
-- Portfolio: [your-portfolio-site.com]
-- LinkedIn: [linkedin.com/in/rishanth-gautam](https://linkedin.com/in/rishanth-gautam)
 - GitHub: [@simplr-k18](https://github.com/simplr-k18)
-- Email: rishanthkalicheti@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-Built from real-world experience at:
-- **First Citizens Bank** (formerly Silicon Valley Bank): Achieved 80% match improvement
-- **Baxter International**: Unified procurement data across 4 regions
-
+Built from real-world experience at
 Inspired by the need for affordable, effective Master Data Management tools.
 
 ---
@@ -314,13 +304,3 @@ Inspired by the need for affordable, effective Master Data Management tools.
 - [ ] Bulk processing mode (10K+ records)
 
 ---
-
-## ⭐ Star History
-
-If this project helped you, please star it on GitHub!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=simplr-k18/supplier-matching-engine&type=Date)](https://star-history.com/#simplr-k18/supplier-matching-engine&Date)
-
----
-
-**Built with first principles thinking and a problem-obsessed mindset.**
