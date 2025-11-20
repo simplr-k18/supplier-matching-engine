@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment (DON'T upload venv folder - it's huge!)
+venv/
+env/
+ENV/
+
+# Data files (user's data, not yours)
+data/processed/*.csv
+data/training_data.csv
+
+# ML models (generated, not source code)
+models/*.pkl
+
+# IDE settings (personal preferences)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets (never upload passwords/API keys!)
+.env
+*.env
+.streamlit/secrets.toml

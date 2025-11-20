@@ -1,0 +1,58 @@
+vendor_id,vendor_name,country,spend_amount,invoice_count,first_transaction_date,category
+V00020,META PLATFORMS INC.,Canada,290565,16,2024-06-05,Manufacturing
+V00019,Meta Platforms,Germany,277417,50,2025-04-27,Technology
+V00051,Oracle Corporation,USA,723662,19,2025-08-18,Consulting
+V00034,Procter & Gamble Co,USA,285883,35,2025-07-08,Consulting
+V00017,google llc,Canada,356923,43,2025-07-29,Consulting
+V00035,procter & gamble co.,USA,642352,42,2025-06-20,Consulting
+V00030,Johnson & Johnson,France,20700,10,2024-04-15,Consulting
+V00041,PepsiCo Inc,USA,275704,10,2024-09-21,Services
+V00048,IBM Corporation,Germany,467208,12,2025-03-17,Consulting
+V00026,JPMorgan Chase & Co.,Canada,802663,20,2024-06-10,Services
+V00002,APPLE INC.,USA,171945,27,2024-07-09,Manufacturing
+V00032,Johnson & Johnson,Germany,976623,6,2025-09-18,Technology
+V00057,Salesforce Inc.,USA,212580,35,2024-09-15,Manufacturing
+V00007,Microsoft Corporation,France,294466,1,2024-06-18,Consulting
+V00029,Johnson & Johnson,Canada,982835,10,2024-03-28,Manufacturing
+V00001,Aple Inc,Canada,924666,42,2024-09-30,Services
+V00046,Intel Corporation,Canada,285241,5,2025-04-04,Services
+V00014,Google LLC,France,583916,28,2024-03-17,Services
+V00039,Coca-Cola Company,UK,88517,40,2025-05-27,Manufacturing
+V00005,MS Corporation,Germany,650379,33,2024-11-21,Consulting
+V00011,Amazon.com Inc.,Germany,731841,44,2025-05-12,Services
+V00050,IBM Corporation,Germany,241849,1,2024-01-27,Consulting
+V00031,Johnson & Johnson,Canada,35375,10,2024-09-29,Manufacturing
+V00042,PepsiCo Inc.,UK,963159,8,2025-06-07,Technology
+V00040,Coca-Cola Company,UK,996072,1,2025-02-06,Services
+V00027,jpmorgan chase & co.,France,516532,38,2023-11-26,Services
+V00047,intel corporation,France,597054,27,2024-12-04,Manufacturing
+V00024,TESLA INC.,Germany,167525,46,2024-10-03,Services
+V00013,AMAZON.COM INC.,USA,740028,4,2024-01-20,Services
+V00028,Johnson & Johnson,Germany,707060,27,2024-02-12,Services
+V00023,Tesla Inc.,France,270341,38,2025-09-22,Consulting
+V00021,Meta Platforms,France,932065,42,2024-05-05,Technology
+V00052,ORACLE CORPORATION,Canada,749134,12,2024-01-19,Services
+V00006,Microsoft Corporation,UK,410539,46,2025-08-01,Consulting
+V00018,Meta Platforms Inc,UK,154454,15,2024-01-10,Technology
+V00016,Google LLC,France,858537,50,2024-06-28,Services
+V00056,Salesforce Inc.,Canada,77674,21,2024-09-01,Manufacturing
+V00004,Apple Inc.,USA,564163,16,2024-11-11,Consulting
+V00022,Tesla Inc,Canada,327406,35,2025-09-27,Services
+V00054,Salesforce Inc.,UK,722668,17,2024-05-24,Services
+V00012,Amazon.com Inc.,Germany,705942,32,2024-09-18,Consulting
+V00037,Coca-Cola Company,USA,392237,33,2025-05-25,Manufacturing
+V00049,IBM Corporation,Canada,375241,23,2025-03-11,Technology
+V00038,Coca-Cola Co,Germany,892124,38,2025-04-28,Technology
+V00009,Amazon,USA,806177,3,2024-02-13,Consulting
+V00003,Apple Inc.,UK,580640,46,2024-01-11,Consulting
+V00045,Intel Corporation,Germany,163491,26,2024-11-28,Consulting
+V00015,Google Inc,Germany,400861,14,2025-03-13,Technology
+V00055,Salesforce Inc.,USA,941334,50,2023-12-02,Consulting
+V00025,JPMORGAN CHASE & CO.,USA,863150,9,2025-01-16,Consulting
+V00008,Microsoft Corporation,France,500280,33,2024-06-17,Consulting
+V00036,Coca-Cola Co,Canada,386633,32,2025-08-14,Manufacturing
+V00053,Oracle Corporation,UK,798663,38,2023-12-18,Manufacturing
+V00033,Procter & Gamble Co.,Germany,925257,40,2025-01-03,Consulting
+V00044,Intel Corporation,France,95536,22,2024-02-13,Manufacturing
+V00010,Amazon.com,UK,746121,50,2025-05-05,Consulting
+V00043,PepsiCo Inc.,Germany,519025,2,2024-07-17,Technology
